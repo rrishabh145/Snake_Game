@@ -1,15 +1,15 @@
 # Snake_Game
 
-An interactive and fun classic game Snakes build in python langauge using pygame. The objedctive of the game is to eat the snack and not hit the snake itself in order to gain a high score. The game is played using the arrow keys to move snake up, down, left or right. 
+An interactive and fun classic game Snakes build in python langauge using pygame. The objective of the game is to eat the snack and not hit the snake itself in order to gain a high score. The game is played using the arrow keys to move snake up, down, left or right. 
 This projects has been made from a tutorial (link is given below).
 
 ## Getting Started
 
-Download the whole repository and save it in a folder in your pc. Make sure you have the prerequisites installed. Run the runcodes.py and the game will start running.
+Download the whole repository and save it in a folder on your pc. Make sure you have the prerequisites installed. Run the runcodes.py and the game will start.
 
 ### Prerequisites
 
-What things you need to install
+Things you need to install
 
 ```
 Python 3
